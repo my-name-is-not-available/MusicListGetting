@@ -1,0 +1,2 @@
+# MusicListGetting
+通过Meting一键下载QQ音乐、网易云音乐等多种音乐平台的歌单
